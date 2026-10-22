@@ -40,7 +40,6 @@ Com base nesta minha vivência e necessidade de realizar um projeto para a concl
 ## Objetivos
 
 - Auxiliar um professor particular a gerenciar seus estudantes e turmas no que tange os horários e dias de aula, informações dos estudantes, financeiro e ofertas de aula;
-- Gerenciar os ganhos do(a) professor(a) mês a mês;
 - Concentrar informações dos estudantes e turmas em um só lugar.
 
 ## Funcionalidades
@@ -48,17 +47,8 @@ Com base nesta minha vivência e necessidade de realizar um projeto para a concl
 | Nº  | Funcionalidade | Descrição |
 |:---:|:---------------|:---------:|
 | 01 | Cadastro do professor/conta | Cadastrar os dados do professor(a) no sistema. Apenas um professor por conta. |
-| 02 | Cadastro de ofertas/pacotes de aula | Cadastrar pacotes de aula particulares a serem ofertadas. |
-| 03 | Perfil da oferta | Uma página web com os dados cadastrados de uma determinada oferta. |
-| 04 | Cadastro da turma | Cadastrar uma turma com um ou mais estudadntes a depender da oferta escolhida. |
-| 05 | Cadastro de aluno(a/e) | Cadastrar aluno(a/e) em uma turma. |
-| 06 | Cadastro de aula | Cadastrar aulas para uma turma |
-| 07 | Resumo das aulas | Exibição de um resumo de informações de uma aula escolhida.  |     
-| 08 | Cadastro do planejamento de aula | Cadastrar um planejamento de aula para uma aula específica. |
-| 09 | Resumo do planejamento de aula | Exibição de um resumo do planejamento de aula. |
-| 10 | Perfil Financeiro da turma | Uma página web com dados financeiros de uma determinada turma. |
-| 11 | Cadastrar situação de pagamento | Cadastrar a situação financeira de uma turma de acordo com acertado. |
-| 12 | Balanço Financeiro | Exibição de um balanço de todo o financeiro do professor de maneira anual, mês a mês. |
-| 13 | Calendário mensal das aulas | Calendário com todas as aulas agendadas e quadro de horários do dia escolhido. |
-| 14 | Quadro de horários | Exbição de todas as aulas do dia com o horário da aula e perfil da aula. |
-| 15 | Relatório Financeiro Positivo | Uma página web com dados financeiros de ganhos no ano, mês a mês, que poderá ser exportado para um arquivo PDF. |
+| 02 | Cadastro da turma | Cadastrar uma turma com um ou mais estudadntes a depender da oferta escolhida. |
+| 03 | Cadastro de aluno(a/e) | Cadastrar aluno(a/e) em uma turma. |
+| 04 | Cadastro de aula | Cadastrar aulas para uma turma |
+| 05 | Calendário mensal das aulas | Calendário com todas as aulas agendadas e quadro de horários do dia escolhido. |
+| 06 | Quadro de horários | Exbição de todas as aulas do dia com o horário da aula e perfil da aula. |
